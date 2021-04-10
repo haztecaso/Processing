@@ -1,0 +1,52 @@
+{
+  "/angle factor randomness": {
+    "min": 0,
+    "max": 1,
+    "value": 0.009999999776482582
+  },
+  "/grow factor": {
+    "min": 0,
+    "max": 1.5,
+    "value": 0.6700000166893005
+  },
+  "/levels": {
+    "min": 1,
+    "max": 14,
+    "value": 12
+  },
+  "/position": {
+    "min": 0,
+    "max": 600,
+    "value": 2
+  },
+  "/angle": {
+    "min": 0,
+    "max": 120,
+    "value": 50
+  },
+  "/angle factor": {
+    "min": 0,
+    "max": 1.5,
+    "value": 0.9800000190734863
+  },
+  "/size": {
+    "min": 0,
+    "max": 2,
+    "value": 1.4800000190734863
+  },
+  "/grow factor randomness": {
+    "min": 0,
+    "max": 1,
+    "value": 0.4099999964237213
+  },
+  "/stroke weight": {
+    "min": 0,
+    "max": 5,
+    "value": 1.4199998378753662
+  },
+  "/random seed": {
+    "min": 0,
+    "max": 200,
+    "value": 15.000000953674316
+  }
+}
